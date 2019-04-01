@@ -1,0 +1,30 @@
+body{
+	background-color:#E8A6F4 ; 
+}
+
+#welcome{
+	font-size: 5em;
+}
+#cifrarMensaje{
+    width:40em;
+    height:40em;
+    border-color:black;
+}
+#desplazamiento{
+
+   width: 2.3em;
+   height: 2.3em;
+   border-color: black; 
+}
+p{
+ font-size: 2.2em;
+ color:black;
+}
+#mensajeCifrado{
+	width: 40em;
+	height:40em;
+	border-color:black;
+}
+.userName{
+	font-size: 2em;
+}
